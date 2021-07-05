@@ -1,15 +1,15 @@
-#Desafio de Programação - Academia Capgemini
+# Desafio de Programação - Academia Capgemini
 
 Biblioteca externa utilizada:
 
 https://www.joda.org/joda-time/
 
-#Inicializando o programa
+# Inicializando o programa
 
--Abra o Terminal
+- Abra o Terminal
 
--Execute o comando:
+- Execute o comando:
 
 java -jar <caminho>\filename.jar
 
--Siga as instruções exibidas na tela.
+- Siga as instruções exibidas na tela.
