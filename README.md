@@ -1,4 +1,4 @@
-# Desafio de Programação - Academia Capgemini
+# Calculadora de Anúncios - Academia Capgemini
 
 Biblioteca externa utilizada:
 
