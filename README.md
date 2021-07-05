@@ -6,11 +6,13 @@ https://www.joda.org/joda-time/
 
 # Inicializando o programa
 
+- Faça do download do DesafioCapgemini-LuanaRios.jar
+
 - Abra o Terminal;
 
 - Execute o comando:
 
-java -jar \<caminho>\\DesafioCapgemini-LuanaRios.jar
+java -jar \<caminho do arquivo>\\DesafioCapgemini-LuanaRios.jar
 
 - Siga as instruções exibidas na tela.
 
