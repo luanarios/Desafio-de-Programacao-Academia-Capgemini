@@ -13,3 +13,7 @@ https://www.joda.org/joda-time/
 java -jar \<caminho>\\filename.jar
 
 - Siga as instruções exibidas na tela.
+
+// Caso ocorra erro de versão, instalar o JDK 16.
+
+https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
