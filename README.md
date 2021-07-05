@@ -10,7 +10,7 @@ https://www.joda.org/joda-time/
 
 - Execute o comando:
 
-java -jar \<caminho>\\filename.jar
+java -jar \<caminho>\\DesafioCapgemini-LuanaRios.jar
 
 - Siga as instruções exibidas na tela.
 
