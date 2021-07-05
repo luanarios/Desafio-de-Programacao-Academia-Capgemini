@@ -6,7 +6,7 @@ https://www.joda.org/joda-time/
 
 # Inicializando o programa
 
-- Abra o Terminal
+- Abra o Terminal.
 
 - Execute o comando:
 
